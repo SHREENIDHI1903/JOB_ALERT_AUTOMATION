@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Database
+*.db
+
+# Logs
+*.log
+
+# LinkedIn Cookies (Session)
+linkedin_cookies.json
