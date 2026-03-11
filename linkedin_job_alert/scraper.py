@@ -1,4 +1,4 @@
-import time
+﻿import time
 import random
 import logging
 import os
@@ -98,9 +98,7 @@ class LinkedInScraper:
                         'li[data-entity-urn^="urn:li:jobPosting"]',
                         '.jobs-search-results__list-item',
                         'div.job-card-container',
-                        'li.jobs-search-results__list-item',
-                        'div.job-search-card',  # Added for guest/public view
-                        'div.base-card'         # Added for guest/public view
+                        'li.jobs-search-results__list-item'
                     ]
 
                     for selector in card_selectors:

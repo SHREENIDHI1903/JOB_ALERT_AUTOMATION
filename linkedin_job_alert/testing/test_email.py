@@ -1,4 +1,4 @@
-import os
+﻿import os
 import smtplib
 from email.mime.text import MIMEText
 from dotenv import load_dotenv
@@ -23,4 +23,4 @@ with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
     server.login(sender, password)
     server.send_message(msg)
 
-print("✅ Email sent successfully")
+print("Γ£à Email sent successfully")

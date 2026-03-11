@@ -1,8 +1,8 @@
-# LinkedIn Job Alert Bot 🤖
+﻿# LinkedIn Job Alert Bot ≡ƒñû
 
 A Python bot that scrapes LinkedIn for new jobs matching your criteria and emails you alerts. It runs locally on your machine.
 
-## 🚀 Quick Start
+## ≡ƒÜÇ Quick Start
 
 ### 1. Install Dependencies
 Open a terminal in this folder:
@@ -44,7 +44,7 @@ python save_cookies.py
 
 ---
 
-## ▶️ How to Run
+## Γû╢∩╕Å How to Run
 Once setup is done, start the bot:
 
 ```bash
@@ -56,7 +56,7 @@ python main.py
 - It will send you an email if new jobs are found.
 - It will keep running and check again every 4 hours.
 
-## 🕒 Running in the Background (Optional)
+## ≡ƒòÆ Running in the Background (Optional)
 
 If you don't want to keep a terminal window open 24/7, you can use **Windows Task Scheduler**.
 
@@ -74,7 +74,7 @@ If you don't want to keep a terminal window open 24/7, you can use **Windows Tas
 
 **Note:** If you use Task Scheduler, you should **comment out** the `schedule` loop at the bottom of `main.py` so it just runs once and exits, letting Windows handle the repetition.
 
-## 📂 Files
+## ≡ƒôé Files
 - `main.py`: The entry point and scheduler.
 - `scraper.py`: Playwright script that navigates LinkedIn.
 - `notifier.py`: Sends the email alerts.

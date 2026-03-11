@@ -1,4 +1,4 @@
-import sys
+﻿import sys
 import os
 import tempfile
 
@@ -31,4 +31,4 @@ finally:
     # Clean up
     if os.path.exists(db_path):
         os.remove(db_path)
-        print("✅ Cleaned up temporary test database")
+        print("Γ£à Cleaned up temporary test database")
