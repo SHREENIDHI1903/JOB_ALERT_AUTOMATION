@@ -20,8 +20,8 @@ class CompanyScraper:
             print(f"[WARN] Skipping {name} - No domain found")
             return
 
-        # Simplified strict query
-        query = f'site:{domain} ("AI" OR "Machine Learning" OR "Data Scientist") India'
+        # Simplified strict query with experience filtering
+        query = f'site:{domain} ("AI" OR "Machine Learning" OR "Data Scientist") ("0-2 years" OR "fresher" OR "entry level" OR "early career") India'
         encoded_query = urllib.parse.quote(query)
         search_url = f"https://duckduckgo.com/?q={encoded_query}&kl=in-en"
 
