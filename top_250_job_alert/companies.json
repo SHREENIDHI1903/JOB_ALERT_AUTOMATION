@@ -1,0 +1,202 @@
+[
+    {
+        "name": "TCS",
+        "domain": "tcs.com"
+    },
+    {
+        "name": "Infosys",
+        "domain": "infosys.com"
+    },
+    {
+        "name": "Wipro",
+        "domain": "wipro.com"
+    },
+    {
+        "name": "HCLTech",
+        "domain": "hcltech.com"
+    },
+    {
+        "name": "Tech Mahindra",
+        "domain": "techmahindra.com"
+    },
+    {
+        "name": "LTIMindtree",
+        "domain": "ltimindtree.com"
+    },
+    {
+        "name": "Accenture India",
+        "domain": "accenture.com"
+    },
+    {
+        "name": "Capgemini India",
+        "domain": "capgemini.com"
+    },
+    {
+        "name": "Cognizant India",
+        "domain": "cognizant.com"
+    },
+    {
+        "name": "IBM India",
+        "domain": "ibm.com"
+    },
+    {
+        "name": "Oracle India",
+        "domain": "oracle.com"
+    },
+    {
+        "name": "Microsoft India",
+        "domain": "microsoft.com"
+    },
+    {
+        "name": "Google India",
+        "domain": "careers.google.com"
+    },
+    {
+        "name": "Amazon India",
+        "domain": "amazon.jobs"
+    },
+    {
+        "name": "Flipkart",
+        "domain": "flipkartcareers.com"
+    },
+    {
+        "name": "Zoho",
+        "domain": "zoho.com"
+    },
+    {
+        "name": "Freshworks",
+        "domain": "freshworks.com"
+    },
+    {
+        "name": "Paytm",
+        "domain": "paytm.com"
+    },
+    {
+        "name": "PhonePe",
+        "domain": "phonepe.com"
+    },
+    {
+        "name": "Razorpay",
+        "domain": "razorpay.com"
+    },
+    {
+        "name": "Zomato",
+        "domain": "zomato.com"
+    },
+    {
+        "name": "Swiggy",
+        "domain": "swiggy.com"
+    },
+    {
+        "name": "Ola",
+        "domain": "olacabs.com"
+    },
+    {
+        "name": "Uber India",
+        "domain": "uber.com"
+    },
+    {
+        "name": "Myntra",
+        "domain": "myntra.com"
+    },
+    {
+        "name": "Nykaa",
+        "domain": "nykaa.com"
+    },
+    {
+        "name": "Meesho",
+        "domain": "meesho.io"
+    },
+    {
+        "name": "Zerodha",
+        "domain": "zerodha.com"
+    },
+    {
+        "name": "Groww",
+        "domain": "groww.in"
+    },
+    {
+        "name": "CRED",
+        "domain": "cred.club"
+    },
+    {
+        "name": "Dream11",
+        "domain": "dream11.com"
+    },
+    {
+        "name": "MakeMyTrip",
+        "domain": "makemytrip.com"
+    },
+    {
+        "name": "BookMyShow",
+        "domain": "bookmyshow.com"
+    },
+    {
+        "name": "Info Edge (Naukri)",
+        "domain": "infoedge.in"
+    },
+    {
+        "name": "PolicyBazaar",
+        "domain": "policybazaar.com"
+    },
+    {
+        "name": "Jio",
+        "domain": "jio.com"
+    },
+    {
+        "name": "Airtel",
+        "domain": "airtel.in"
+    },
+    {
+        "name": "Vodafone Idea",
+        "domain": "myvi.in"
+    },
+    {
+        "name": "Tata Motors",
+        "domain": "tatamotors.com"
+    },
+    {
+        "name": "Mahindra & Mahindra",
+        "domain": "mahindra.com"
+    },
+    {
+        "name": "Maruti Suzuki",
+        "domain": "marutisuzuki.com"
+    },
+    {
+        "name": "Bajaj Auto",
+        "domain": "bajajauto.com"
+    },
+    {
+        "name": "Hero MotoCorp",
+        "domain": "heromotocorp.com"
+    },
+    {
+        "name": "Reliance Industries",
+        "domain": "ril.com"
+    },
+    {
+        "name": "Adani Group",
+        "domain": "adani.com"
+    },
+    {
+        "name": "Vedanta",
+        "domain": "vedantalimited.com"
+    },
+    {
+        "name": "L&T",
+        "domain": "larsentoubro.com"
+    },
+    {
+        "name": "ITC",
+        "domain": "itcportal.com"
+    },
+    {
+        "name": "HUL",
+        "domain": "hul.co.in"
+    },
+    {
+        "name": "Nestle India",
+        "domain": "nestle.in"
+    }
+]
