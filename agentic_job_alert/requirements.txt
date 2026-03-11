@@ -1,0 +1,6 @@
+streamlit
+playwright
+ollama
+python-dotenv
+beautifulsoup4
+pandas
